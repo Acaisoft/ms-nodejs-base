@@ -8,6 +8,9 @@ clean:
 	-docker-compose down
 	-docker-compose rm -f
 
+logs:
+	docker-compose logs -f app
+
 secrets_decrypt:
 	scripts/decrypt.sh
 
