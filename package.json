@@ -16,5 +16,5 @@
     "start": "node ./src/server.js"
   },
   "author": "Acaisoft",
-  "license": "ISC"
+  "license": "MIT"
 }
