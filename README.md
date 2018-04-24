@@ -11,7 +11,7 @@ Base microservice project structure for Node.js
 
 ### Local environment
 
-Local set-up is described in docker-compose.yml
+Local set-up is described in docker-compose.yml.
 To run local environment:
 
 ```
@@ -22,7 +22,7 @@ make
 ```
 make build_container
 ```
-After build docker container you can tag it and push to container registry .
+After building the docker container you can tag it and push to container registry.
 
 ## Authors
 
@@ -30,5 +30,5 @@ After build docker container you can tag it and push to container registry .
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) for details.
 
